@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507167162683",
+    "firebase_url": "https://hack-c11eb.firebaseio.com",
+    "project_id": "hack-c11eb",
+    "storage_bucket": "hack-c11eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507167162683:android:056e8fe8168ed3fe65371e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FitnessApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507167162683-tno2mmlkp3pldfl34rg5ic5uqsoqtv8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-a2ekiN9ucEOd8fPMu2zwxQNpvIHjGKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507167162683-tno2mmlkp3pldfl34rg5ic5uqsoqtv8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
